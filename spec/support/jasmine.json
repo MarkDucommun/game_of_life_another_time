@@ -1,0 +1,10 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "**/BoardSpec.js",
+    "**/ControllerSpec.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ]
+}
